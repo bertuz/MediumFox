@@ -9,7 +9,7 @@ This is a theme for [Octopress](http://Octopress.org). Inspired by Medium and Fo
 
 ````
 $ cd yourOctopress
-$ git submodule add https://github.com/sevenadrian/MediumFox .themes/MediumFox
+$ git submodule add git@github.com:bertuz/bertuzFox.git .themes/bertuzFox
 $ git submodule update --init
 $ rake install['MediumFox'] # for zsh, use: rake install\['MediumFox'\] 
 $ rake generate
