@@ -1,4 +1,5 @@
-# MediumFox #
+# Bertuz's MediumFox #
+Extension and persionalization of MediumFox theme. This is my personal test
 
 Live theme preview available at [AdrianArtiles.com](http://AdrianArtiles.com).
 
