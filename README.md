@@ -1,7 +1,7 @@
 # BertuzFox Theme #
 Extension and persionalization of MediumFox theme. This is my personal test
 
-Live theme preview available at [AdrianArtiles.com](http://AdrianArtiles.com).
+ive theme preview available at [AdrianArtiles.com](http://AdrianArtiles.com).
 
 This is a theme for [Octopress](http://Octopress.org). Inspired by Medium and FoxSlide and leveraging the latest [Bootstrap](http://getbootstrap.com/), and is a very clean, focused, and unique theme.
 
